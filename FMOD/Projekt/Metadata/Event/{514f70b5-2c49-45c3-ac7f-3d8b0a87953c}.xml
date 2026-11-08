@@ -5,7 +5,7 @@
 			<value>amb_fireplace</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{0cb11cc2-a528-4e32-bf80-0354d8414bd3}</destination>
@@ -139,7 +139,6 @@
 	<object class="MixerBusEffectChain" id="{f3589d66-5fc8-4670-848c-5ddc288c1925}">
 		<relationship name="effects">
 			<destination>{ee6d10f2-e0a7-4b26-b700-bacc57b87f74}</destination>
-			<destination>{ee09ad2c-4740-4063-b219-efa0c40acaf3}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{b0f2956d-a1a4-4a2f-b37c-ad6fd0779363}" />
@@ -159,6 +158,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{4d2fc82e-a7fb-4f3f-b312-1f835c00a24d}" />
 	<object class="MixerBusFader" id="{ee6d10f2-e0a7-4b26-b700-bacc57b87f74}" />
-	<object class="SpatialiserEffect" id="{ee09ad2c-4740-4063-b219-efa0c40acaf3}" />
 	<object class="MixerBusFader" id="{4647aa41-fc68-4d5a-a196-b015a0630020}" />
 </objects>

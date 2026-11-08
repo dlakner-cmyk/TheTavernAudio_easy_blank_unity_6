@@ -5,7 +5,7 @@
 			<value>amb_tavern</value>
 		</property>
 		<property name="outputFormat">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{0cb11cc2-a528-4e32-bf80-0354d8414bd3}</destination>
@@ -142,7 +142,6 @@
 	<object class="MixerBusEffectChain" id="{bc64c31c-3a45-4311-946b-f60ca49eb5a0}">
 		<relationship name="effects">
 			<destination>{d9a1ff6b-831e-4746-b03b-e7711db0e386}</destination>
-			<destination>{818419cb-dc1b-49c6-a8d0-03c30d1542a2}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{3e66722c-f782-441b-a64f-e87527a27f28}" />
@@ -162,6 +161,5 @@
 	</object>
 	<object class="MixerBusPanner" id="{c739af9c-b18b-4757-b4b1-f62adda0bcc8}" />
 	<object class="MixerBusFader" id="{d9a1ff6b-831e-4746-b03b-e7711db0e386}" />
-	<object class="SpatialiserEffect" id="{818419cb-dc1b-49c6-a8d0-03c30d1542a2}" />
 	<object class="MixerBusFader" id="{b43acda7-9f8a-4e3c-a2bb-4653900675db}" />
 </objects>
