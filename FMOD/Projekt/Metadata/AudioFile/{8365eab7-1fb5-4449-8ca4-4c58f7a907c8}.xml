@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8365eab7-1fb5-4449-8ca4-4c58f7a907c8}">
+		<property name="assetPath">
+			<value>player/stone/playersteps_stone_4.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.29843750000000002</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{74a0b307-3573-425e-ba7d-1cfcdbd4c3f6}</destination>
+		</relationship>
+	</object>
+</objects>

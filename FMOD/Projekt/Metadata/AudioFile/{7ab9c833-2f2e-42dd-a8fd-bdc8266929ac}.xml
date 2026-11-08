@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{7ab9c833-2f2e-42dd-a8fd-bdc8266929ac}">
+		<property name="assetPath">
+			<value>player/wood/playerjump_wood_3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.79993749999999997</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{74a0b307-3573-425e-ba7d-1cfcdbd4c3f6}</destination>
+		</relationship>
+	</object>
+</objects>
